@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "async-objects": "^0.1.0",
-        "character-scanner": "0.0.1",
+        "character-scanner": "^1.0.0",
         "luhn": "^2.1.0"
     },
     "devDependencies": {
